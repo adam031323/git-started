@@ -1,0 +1,6 @@
+temp/
+*.tmp
+git add .gitignore
+git commit -m "Add .gitignore to exclude temp folder and tmp files"
+git add data/lorem.txt
+git commit -m "Add lorem.txt with initial placeholder text"

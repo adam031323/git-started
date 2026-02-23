@@ -6,3 +6,5 @@ git add data/lorem.txt
 git commit -m "Add lorem.txt with initial placeholder text"
 git add data/lorem.txt
 git commit -m "Add three additional sentences to lorem.txt"
+git mv data/lorem.txt data/lorem_ipsum.txt
+git commit -m "Rename lorem.txt to lorem_ipsum.txt"
